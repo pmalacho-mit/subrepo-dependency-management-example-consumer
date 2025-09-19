@@ -1,5 +1,5 @@
 {
-  "name": "subrepo-dependency-management-example",
+  "name": "subrepo-dependency-management-example-consumer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
