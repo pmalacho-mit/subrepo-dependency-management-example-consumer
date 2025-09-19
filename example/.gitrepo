@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:pmalacho-mit/subrepo-dependency-management-example.git
+	branch = dist
+	commit = 7a6e71b429cff5e05ae4e51074518765bd159c5f
+	parent = b3604db1712c19ba7c1fd2ea35340f4865325ba3
+	method = merge
+	cmdver = 0.4.9
